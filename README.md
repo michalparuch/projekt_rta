@@ -6,7 +6,8 @@ kafka/bin/kafka-topics.sh --bootstrap-server broker:9092 --create --topic stock
 
 kafka/bin/kafka-topics.sh --bootstrap-server broker:9092 --create --topic crypto
 
-wyświetlania:
+
+wyświetlanie:
 
 kafka/bin/kafka-console-consumer.sh --bootstrap-server broker:9092 --topic stock --from-beginning
 
