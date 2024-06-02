@@ -1,0 +1,6 @@
+bitcoin
+ethereum
+tether
+solana
+usd-coin
+dogecoin
